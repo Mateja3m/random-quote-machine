@@ -1,0 +1,24 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-content;
+    border: 1px solid black;
+    width: 650px;
+}
+div h1 {
+    padding-bottom: 20px;
+}
+
+#tweet-quote{
+    background: blue;
+    border: none;
+}
+#new-quote{
+    background: blue;
+    border: none;
+}
+
